@@ -1,5 +1,6 @@
-header {
+h1 {
 	text-align: center;
+	font-style: bold;
 }
 
 div p{
@@ -8,6 +9,8 @@ div p{
 
 div{
 	background-color: green;
+	width: 50%;
+	float: left;
 
 }
 
